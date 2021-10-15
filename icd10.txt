@@ -227,8 +227,7 @@ C33 Nowotwór złośliwy tchawicy
 C34 Nowotwór złośliwy oskrzela i płuca
 C37 Nowotwór złośliwy grasicy
 C38 Nowotwór złośliwy serca, śródpiersia i opłucnej
-C39 Nowotwór złośliwy o innym i bliżej nieokreślonym umiejscowieniu w obrębie układu oddechowego
-i narządów klatki piersiowej
+C39 Nowotwór złośliwy o innym i bliżej nieokreślonym umiejscowieniu w obrębie układu oddechowego i narządów klatki piersiowej
 Nowotwór złośliwy kości i chrząstki stawowej (C40–C41)
 C40 Nowotwór złośliwy kości i chrząstki stawowej kończyn
 C41 Nowotwór złośliwy kości i chrząstki stawowej o innym i nieokreślonym umiejscowieniu
@@ -351,9 +350,7 @@ D51 Niedokrwistość z niedoboru witaminy B12
 D52 Niedokrwistość z niedoboru kwasu foliowego
 D53 Inne niedokrwistości z niedoborów pokarmowych
 Niedokrwistości hemolityczne (D55–D59)
-D55 Niedokrwistość spowodowana zaburzeniami enzymatycznymi 
-MIĘDZYNARODOWA KLASYFIKACJA CHORÓB
-36
+D55 Niedokrwistość spowodowana zaburzeniami enzymatycznymi
 D56 Talasemia
 D57 Zaburzenia związane z sierpowatokrwinkowością
 D58 Inne dziedziczne niedokrwistości hemolityczne
@@ -482,17 +479,13 @@ Zaburzenia psychiczne i zachowania spowodowane używaniem substancji psychoaktyw
 F10 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem alkoholu
 F11 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem opioidów
 F12 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem kanabinoli
-F13 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem substancji uspokajających i
-nasennych
+F13 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem substancji uspokajających i nasennych
 F14 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem kokainy
-F15 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem innych substancji stymulujących,
-w tym kofeiny
+F15 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem innych substancji stymulujących, w tym kofeiny
 F16 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem halucynogenów
 F17 Zaburzenia psychiczne i zaburzenia zachowania spowodowane paleniem tytoniu
-F18 Zaburzenia psychiczne i zaburzenia zachowania spowodowane odurzaniem się lotnymi rozpuszczalnikami
-organicznymi
-F19 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem wielu narkotyków i innych
-substancji psychoaktywnych
+F18 Zaburzenia psychiczne i zaburzenia zachowania spowodowane odurzaniem się lotnymi rozpuszczalnikami organicznymi
+F19 Zaburzenia psychiczne i zaburzenia zachowania spowodowane używaniem wielu narkotyków i innych substancji psychoaktywnych
 Schizofrenia, zaburzenia schizotypowe i urojeniowe (F20–F29)
 F20 Schizofrenia
 F21 Zaburzenie schizotypowe
@@ -523,8 +516,7 @@ F50 Zaburzenia odżywiania
 F51 Nieorganiczne zaburzenia snu
 F52 Zaburzenia seksualne niespowodowane zaburzeniem organicznym ani chorobą somatyczną
 F53 Zaburzenia psychiczne i zaburzenia zachowania związane z połogiem, niesklasyfikowane gdzie indziej
-F54 Czynniki psychologiczne lub behawioralne związane z zaburzeniami lub chorobami sklasyfikowanymi gdzie
-indziej
+F54 Czynniki psychologiczne lub behawioralne związane z zaburzeniami lub chorobami sklasyfikowanymi gdzie indziej
 F55 Nadużywanie substancji, które nie powodują uzależnienia
 F59 Nieokreślone zespoły behawioralne związane z zaburzeniami fizjologicznymi i czynnikami fizycznymi
 Zaburzenia osobowości i zachowania dorosłych (F60–F69)
@@ -589,8 +581,7 @@ G26* Zaburzenia pozapiramidowe i zaburzenia czynności ruchowych w przebiegu cho
 Inne choroby zwyrodnieniowe układu nerwowego (G30–G32)
 G30 Choroba Alzheimera
 G31 Inne zwyrodnieniowe choroby układu nerwowego, niesklasyfikowane gdzie indziej
-G32* Inne zwyrodnieniowe zaburzenia układu nerwowego, występujące w przebiegu chorób sklasyfikowanych
-gdzie indziej
+G32* Inne zwyrodnieniowe zaburzenia układu nerwowego, występujące w przebiegu chorób sklasyfikowanych gdzie indziej
 Choroby demielinizacyjne ośrodkowego układu nerwowego (G35–G37)
 G35 Stwardnienie rozsiane
 G36 Inne rozsiane procesy demielinizacyjne o ostrym przebiegu
@@ -1271,8 +1262,7 @@ O29 Powikłania znieczulenia w czasie ciąży
 Opieka położnicza dotycząca płodu, owodni i potencjalnych powikłań porodowych (O30–O48)
 O30 Ciąża mnoga
 O31 Powikłania typowe dla ciąży mnogiej
-O32 Opieka położnicza z powodu znanego lub podejrzewanego nieprawidłowego położenia, ustawienia i ułożenia
-płodu
+O32 Opieka położnicza z powodu znanego lub podejrzewanego nieprawidłowego położenia, ustawienia i ułożenia płodu
 O33 Opieka położnicza z powodu znanej lub przewidywanej niewspółmierności porodowej
 O34 Opieka położnicza z powodu znanej lub podejrzewanej nieprawidłowości narządów miednicy
 O35 Opieka położnicza z powodu znanej lub podejrzewanej nieprawidłowości lub uszkodzenia płodu
@@ -1330,8 +1320,7 @@ P00 Stan płodu i noworodka spowodowany czynnikami matczynymi, które mogą nie 
 P01 Stan płodu i noworodka spowodowany przez powikłania ciąży u matki
 P02 Stan płodu i noworodka spowodowany powikłaniami ze strony łożyska, pępowiny i błon płodowych
 P03 Stan płodu i noworodka spowodowany innymi powikłaniami czynności porodowej i porodu
-P04 Stan płodu i noworodka spowodowany przez szkodliwe substancje przenoszone przez łożysko lub z pokarmem
-kobiecym
+P04 Stan płodu i noworodka spowodowany przez szkodliwe substancje przenoszone przez łożysko lub z pokarmem kobiecym
 Zaburzenia związane z czasem trwania ciąży i rozwojem płodu (P05–P08)
 P05 Opóźniony wzrost płodu i niedożywienie płodu
 P07 Zaburzenia związane z krótkim czasem trwania ciąży i niską masą urodzeniową, niesklasyfikowane gdzie indziej
@@ -1480,8 +1469,7 @@ Q82 Inne wrodzone wady rozwojowe skóry
 Q83 Wrodzone wady rozwojowe piersi
 Q84 Inne wrodzone wady rozwojowe powłok ciała
 Q85 Fakomatozy nie sklasyfikowane gdzie indziej
-Q86 Zespoły wrodzonych wad rozwojowych spowodowane znanymi czynnikami zewnętrznymi, niesklasyfikowane
-gdzie indziej
+Q86 Zespoły wrodzonych wad rozwojowych spowodowane znanymi czynnikami zewnętrznymi, niesklasyfikowane gdzie indziej
 Q87 Inne określone zespoły wrodzonych wad rozwojowych dotyczące wielu układów
 Q89 Inne wrodzone wady rozwojowe niesklasyfikowane gdzie indziej
 Aberracje chromosomowe, niesklasyfikowane gdzie indziej (Q90–Q99)
@@ -1635,8 +1623,7 @@ S30 Powierzchowny uraz brzucha, dolnej części grzbietu i miednicy
 S31 Otwarta rana brzucha, dolnej części grzbietu i miednicy
 S32 Złamanie odcinka lędźwiowego kręgosłupa i miednicy
 S33 Zwichnięcie, skręcenie i naderwanie stawów i więzadeł odcinka lędźwiowego kręgosłupa i miednicy
-S34 Uraz nerwów i rdzenia kręgowego odcinka lędźwiowego kręgosłupa na poziomie brzucha, dolnej części
-grzbietu i miednicy
+S34 Uraz nerwów i rdzenia kręgowego odcinka lędźwiowego kręgosłupa na poziomie brzucha, dolnej części grzbietu i miednicy
 S35 Uraz naczyń krwionośnych na poziomie brzucha, dolnej części grzbietu i miednicy
 S36 Uraz narządów jamy brzusznej
 S37 Uraz narządów miednicy i narządów układu moczowego
@@ -1822,7 +1809,7 @@ Wypadki komunikacyjne (V01–V99)
 Uraz pieszego w wypadku komunikacyjnym (V01–V09)
 V01 Pieszy ranny w kolizji z rowerem
 V02 Pieszy ranny w kolizji z dwukołowym lub trzykołowym pojazdem mechanicznym
-V03 Pieszy ranny w kolizji z samochodem, samochodem dostawczym lub ciężarowym
+V03 Pieszy ranny w kolizji z samochodem, samochodem
 V04 Pieszy ranny w kolizji z ciężkim środkiem transportu lub autobusem
 V05 Pieszy ranny w kolizji z pociągiem lub pojazdem szynowym
 V06 Pieszy ranny w kolizji z innym pojazdem niemechanicznym
@@ -1875,8 +1862,7 @@ Uraz użytkownika samochodu dostawczego lub ciężarowego w wypadku komunikacyjn
 V50 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z pieszym lub zwierzęciem
 V51 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z rowerem
 V52 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z dwukołowym lub trzykołowym pojazdem mechanicznym
-V53 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z samochodem, samochodem
-dostawczym lub ciężarowym
+V53 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z samochodem, samochodem dostawczym lub ciężarowym
 V54 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z ciężkim środkiem transportu lub autobusem
 V55 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z pociągiem lub pojazdem szynowym
 V56 Użytkownik samochodu dostawczego lub ciężarowego ranny w kolizji z innym pojazdem niemechanicznym
@@ -2091,8 +2077,7 @@ X59 Narażenie na nieokreślone czynniki
 Zamierzone samouszkodzenie (X60–X84)
 X60 Zamierzone zatrucie przez narażenie na nieopioidowe leki przeciwbólowe, przeciwgorączkowe i przeciwreumatyczne
 X61 Zamierzone zatrucie przez narażenie na leki przeciwpadaczkowe, uspokajająco-nasenne, stosowane w chorobie Parkinsona i psychotropowe, niesklasyfikowane gdzie indziej
-X62 Zamierzone zatrucie przez narażenie na narkotyki i leki psychodysleptyczne [halucynogenne],
-niesklasyfikowane gdzie indziej
+X62 Zamierzone zatrucie przez narażenie na narkotyki i leki psychodysleptyczne [halucynogenne], niesklasyfikowane gdzie indziej
 X63 Zamierzone zatrucie przez narażenie na inne leki działające na układ nerwowy wegetatywny
 X64 Zamierzone zatrucie przez narażenie na inne i nieokreślone leki, środki farmakologiczne i substancje biologiczne
 X65 Zamierzone zatrucie przez narażenie na alkohol
@@ -2188,8 +2173,7 @@ Y52 Leki działające głównie na układ krążenia
 Y53 Środki działające głównie na układ pokarmowy
 Y54 Środki działające głównie na gospodarkę wodno-elektrolitową i przemianę kwasu moczowego
 Y55 Środki działające głównie na mięśnie gładkie i szkieletowe oraz na układ oddechowy
-Y56 Środki działające miejscowo na skórę i błonę śluzową oraz leki stosowane w okulistyce, laryngologii
-i stomatologii
+Y56 Środki działające miejscowo na skórę i błonę śluzową oraz leki stosowane w okulistyce, laryngologii i stomatologii
 Y57 Inne i nieokreślone leki i środki farmakologiczne
 Y58 Szczepionki bakteryjne
 Y59 Inne i nieokreślone szczepionki i substancje biologiczne
